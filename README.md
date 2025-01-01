@@ -1,21 +1,17 @@
 # StudyElixir
 
-**TODO: Add description**
+Este projeto é um estudo básico de Elixir, com exemplos de funções simples, loops e obtenção de informações do sistema. Ele foi desenvolvido com o intuito de aprender e explorar as funcionalidades da linguagem Elixir, como manipulação de strings, loops, e informações de sistema.
 
-## Installation
+## Funcionalidades
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `study_elixir` to your list of dependencies in `mix.exs`:
+- **Saudação**: Exibe uma mensagem de boas-vindas.
+- **Greet**: Exibe uma saudação personalizada.
+- **Loop Par/Ímpar**: Um loop que imprime números de 1 a 10 e marca os números pares com "par" e os números ímpares com seu próprio valor.
+- **Informações do Sistema**: Exibe a hora atual, o local (a ser implementado de acordo com a necessidade) e o sistema operacional.
 
-```elixir
-def deps do
-  [
-    {:study_elixir, "~> 0.1.0"}
-  ]
-end
-```
+## Instalação
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at <https://hexdocs.pm/study_elixir>.
+Clone este repositório:
 
+```bash
+git clone https://github.com/jojesd/study_elixir.git
